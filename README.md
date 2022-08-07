@@ -1,6 +1,6 @@
 # 환전앱 만들기 (exchange-currency)
-
-<참고 영상> <br>
+2022/08/06 ~ 2022/08/07<br><br>
+<참고 영상><br>
 코딩알려주는누나 | 프로젝트를 통해 익히는 자바스크립트 환전앱 만들기<br>
 1탄 : https://www.youtube.com/watch?v=1BF_BwW0LPs<br>
 2탄 : https://youtu.be/G8tYiAJqBIQ<br>
